@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body { text-align: center;
+}
+
+#first{
+    background-image: url(/image/rose.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgba(247, 161, 87, 0.648);
+}
+header{
+    text-align: center;
+    margin: 0 50px 0 50px;
+    background-color: rgba(252, 219, 176, 0.792);
+    margin-bottom: 50px;
+    line-height: 40px;
+}
+header h1,h3{
+    color: blueviolet;
+    
+}
+span{
+    font-weight: bold;
+}
+.a{
+    margin: 70px;
+    line-height: 30px;
+}
+.a h1{
+    color: chocolate;
+    text-transform: uppercase;
+}
+ .a .food1{
+    text-align: left;
+    color: black;
+}
+.food1 h4{
+    margin-left: 50px;
+}
